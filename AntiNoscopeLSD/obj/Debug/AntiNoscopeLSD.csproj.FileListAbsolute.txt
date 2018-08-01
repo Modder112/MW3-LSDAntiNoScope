@@ -1,0 +1,17 @@
+C:\Users\User\AppData\Local\Temporary Projects\AntiNoscopeLSD\bin\Debug\AntiNoscopeLSD.dll
+C:\Users\User\AppData\Local\Temporary Projects\AntiNoscopeLSD\bin\Debug\AntiNoscopeLSD.pdb
+C:\Users\User\AppData\Local\Temporary Projects\AntiNoscopeLSD\bin\Debug\InfinityScript.dll
+C:\Users\User\AppData\Local\Temporary Projects\AntiNoscopeLSD\obj\Debug\AntiNoscopeLSD.csprojResolveAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\AntiNoscopeLSD\obj\Debug\AntiNoscopeLSD.dll
+C:\Users\User\AppData\Local\Temporary Projects\AntiNoscopeLSD\obj\Debug\AntiNoscopeLSD.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\AntiNoscopeLSD\AntiNoscopeLSD\bin\Debug\AntiNoscopeLSD.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\AntiNoscopeLSD\AntiNoscopeLSD\bin\Debug\AntiNoscopeLSD.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\AntiNoscopeLSD\AntiNoscopeLSD\bin\Debug\InfinityScript.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\AntiNoscopeLSD\AntiNoscopeLSD\obj\Debug\AntiNoscopeLSD.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\AntiNoscopeLSD\AntiNoscopeLSD\obj\Debug\AntiNoscopeLSD.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\AntiNoscopeLSD\AntiNoscopeLSD\obj\Debug\AntiNoscopeLSD.pdb
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\AntiNoscopeLSD\AntiNoscopeLSD\bin\Debug\AntiNoscopeLSD.dll
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\AntiNoscopeLSD\AntiNoscopeLSD\bin\Debug\AntiNoscopeLSD.pdb
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\AntiNoscopeLSD\AntiNoscopeLSD\obj\Debug\AntiNoscopeLSD.csprojResolveAssemblyReference.cache
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\AntiNoscopeLSD\AntiNoscopeLSD\obj\Debug\AntiNoscopeLSD.dll
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\AntiNoscopeLSD\AntiNoscopeLSD\obj\Debug\AntiNoscopeLSD.pdb
